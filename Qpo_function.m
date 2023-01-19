@@ -2,7 +2,7 @@ function y = Qpo_function (inputs)
 global CQpo s6 Ppas0
 Prv = inputs(1);
 Ppas = inputs(2);
-
+%edycja%
 %CQpo = 350;
 
 if Prv>=Ppas
